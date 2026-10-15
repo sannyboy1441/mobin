@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" fill="none">
+  <!-- Brand Bark Background with Squircle Corners -->
+  <rect width="64" height="64" rx="16" fill="#5c3d2e"/>
+  
+  <!-- Creative M + House Architectural Line Art -->
+  <g stroke="#ffffff" stroke-width="4.2" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Dual House Rooflines forming the letter 'M' -->
+    <path d="M 14 31 L 23 17 L 32 27 L 41 17 L 50 31"/>
+    
+    <!-- Outer House Walls -->
+    <path d="M 14 31 V 48"/>
+    <path d="M 50 31 V 48"/>
+    
+    <!-- Center Shared Wall / Column -->
+    <path d="M 32 27 V 48"/>
+    
+    <!-- Left Arched Room Doorway -->
+    <path d="M 20 48 V 40 A 3 3 0 0 1 26 40 V 48"/>
+    
+    <!-- Right Arched Room Doorway -->
+    <path d="M 38 48 V 40 A 3 3 0 0 1 44 40 V 48"/>
+    
+    <!-- Foundation Baseline -->
+    <path d="M 10 48 H 54"/>
+  </g>
+</svg>

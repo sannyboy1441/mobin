@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "jsx": "react-jsx",
+    "module": "esnext",
+    "moduleResolution": "bundler",
+    "resolveJsonModule": true,
+    "paths": {
+      "@/*": ["./*"]
+    }
+  },
+  "include": ["next.config.mjs", "app/**/*", "components/**/*", "lib/**/*", "animations/**/*"],
+  "exclude": ["node_modules", ".next"]
+}
